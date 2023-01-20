@@ -1,0 +1,3 @@
+.reveal .speaker-notes-pdf {
+  page-break-before: always !important;
+  position: relative !important; }
