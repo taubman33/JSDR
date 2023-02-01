@@ -88,7 +88,7 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 | Command | Description | Command| Description |
 | --- | --- | --- | --- |
-| `ls` | **L**i**s**t the contents of the directory | `subl` | Open sublime text|
+| `ls` | **L**i**s**t the contents of the directory | `code . ` | Open VS Code|
 | `cd` | **C**hange **d**irectories| `pwd`| **P**rint **w**orking **d**irectory |
 | `mkdir` | **M**a**k**e **dir**ectory | `say`| Make your computer talk |
 | `rmdir` | **R**e**m**ove empty **dir**ectories  | `open`| Open a particular file in their default application|
@@ -118,9 +118,9 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 4. Create a file named "index.html" using the touch command. ```touch index.html``` Windows: ```type nul > filename.txt```
 
-5. Demonstrate how to open "index.html" in Sublime Text from the terminal. ```subl```
+5. Demonstrate how to open "index.html" in VSCode from the terminal. ```code .```
 
-6. Have students set up Sublime for their working environment. (Show them the open files side bar.)
+6. Have students set up VSCode for their working environment. (Show them the open files side bar.)
 
 7. Using HTML comments, type "This is how you should take notes in class." Some students will need a refresher on how to write HTML comments (i.e., `<!-- comment -->`). Briefly explain comments and let students know we will be covering comments in greater depth during the next lesson.
 
@@ -139,7 +139,7 @@ Complete the following instructions below in the Terminal application.
   - worries.html
   - index.html
 
-3. Open Sublime Text, click File > Open and navigate to your newly created ~/Sites/goals folder.
+3. Open VS Code, click File > Open and navigate to your newly created ~/Sites/goals folder.
 In the respective files (goals.html and worries.html), write your top three goals and top three worries for this course.
 
 4. Paste the following contents into index.html:
