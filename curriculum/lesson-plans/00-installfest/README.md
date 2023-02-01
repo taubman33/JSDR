@@ -56,7 +56,7 @@ In addition to in-class participation, students are expected to complete three p
 | Lesson 2 | [Data Types](../02-data-types/readme.md) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](../../projects/unit2/project-02.md) |
 | Lesson 3| [Conditionals and Loops](../03-conditionals-and-loops/readme.md) || Lesson 13 | [Prototypal Inheritance](../13-prototypal-inheritance/readme.md) |
 | Lesson 4 | [Functions and Scope](../04-functions-and-scope/readme.md) || Lesson 14 | [Closures and This](../14-closures-and-this/readme.md) |
-| Lesson 5 | [**Project 1 Lab:** Slackbot](../05-in-class-lab) ||Lesson 15| [Intro to Crud and Firebase](../15-intro-to-crud-and-firebase) |
+| Lesson 5 | [CodeWars Challenges](..) ||Lesson 15| [Intro to Crud and Firebase](../15-intro-to-crud-and-firebase) |
 | Lesson 6 | [Objects and JSON](../06-objects-and-json/readme.md) ||Lesson 16| [Deploying Your App](../16-deploying-your-app/readme.md) |
 | Lesson 7 | [Intro to DOM & jQuery](../07-intro-to-dom-and-jquery/readme.md)|| Lesson 17 |  [Instructor Student Choice](../17-instructor-student-choice/readme.md) |
 | Lesson 8 | [DOM & jQuery Continued](../08-dom-and-jquery-continued/readme.md) || Lesson 18 |[Lab Time](../18-lab-time/readme.md) |
